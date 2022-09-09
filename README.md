@@ -22,6 +22,6 @@
 [![](https://img.shields.io/badge/-%20Wordpress%20CICD-000)](https://github.com/Emerson89/wordpress-CICD)
 
 <div>
-  <a href="https://github.com/Emerson89"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson89&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22"/><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson89&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22%22" /></a>
+  <a href="https://github.com/Emerson89"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Emerson89&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22"/><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson89&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22%22" /></a>
 
 </div>
