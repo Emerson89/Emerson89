@@ -16,10 +16,10 @@
 ### Full Stack Projects
 
 [![](https://img.shields.io/badge/-%20Zabbix%20Server-000)](https://github.com/Emerson89/zabbix-server)
-[![](https://img.shields.io/badge/-📝%apizabbix-000)](https://github.com/Emerson89/api-zabbix)
-[![](https://img.shields.io/badge/-📝%20Zabbix-k8s-000)](https://github.com/Emerson89/zabbix-k8s)
-[![](https://img.shields.io/badge/-🔬%20Rancher-eks-000)](https://github.com/Emerson89/rancher-eks)
-[![](https://img.shields.io/badge/-🛰%Wordpress-CICD-000)]https://github.com/Emerson89/wordpress-CICD)
+[![](https://img.shields.io/badge/-%20apizabbix-000)](https://github.com/Emerson89/api-zabbix)
+[![](https://img.shields.io/badge/-%20Zabbix-k8s-000)](https://github.com/Emerson89/zabbix-k8s)
+[![](https://img.shields.io/badge/-%20Rancher-eks-000)](https://github.com/Emerson89/rancher-eks)
+[![](https://img.shields.io/badge/-%20Wordpress-CICD-000)]https://github.com/Emerson89/wordpress-CICD)
 
 <div>
   <a href="https://github.com/Emerson89">
