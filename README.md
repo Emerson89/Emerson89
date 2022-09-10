@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Jinja](https://img.shields.io/badge/-Jinja-000?&logo=Jinja)
+![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
 
 ### Technologies
 
