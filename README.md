@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/-%20apizabbix-000)](https://github.com/Emerson89/api-zabbix)
 [![](https://img.shields.io/badge/-%20Zabbix%20k8s-000)](https://github.com/Emerson89/zabbix-k8s)
 [![](https://img.shields.io/badge/-%20Rancher%20eks-000)](https://github.com/Emerson89/rancher-eks)
-[![](https://img.shields.io/badge/-%20Wordpress%20CICD-000)](https://github.com/Emerson89/provisioning-instances)
+[![](https://img.shields.io/badge/-%20provisioning%20instances-000)](https://github.com/Emerson89/provisioning-instances)
 
 <div>
   <a href="https://github.com/Emerson89"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=Emerson89&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22"/></a>
