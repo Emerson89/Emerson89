@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Jinja](https://img.shields.io/badge/-Jinja-000?&logo=Jinja)
-![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
+![Shell](https://img.shields.io/badge/-Bash-000?&logo=Bash)
 
 ### Technologies
 
@@ -13,6 +13,8 @@
 ![Terraform](https://img.shields.io/badge/-terraform-000?&logo=terraform)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-000?&logo=Zabbix)
+![Argocd](https://img.shields.io/badge/-Argocd-000?&logo=Argocd)
+![CICD](https://img.shields.io/badge/-CICD-000?&logo=CICD)
 
 ### Full Stack Projects
 
